@@ -1,1 +1,1 @@
-# assignment-code-reveiw
+# The objective of this assignment is to learn pull-based code reviews.
